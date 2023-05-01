@@ -1,2 +1,2 @@
 # React + TypeScript Toast
-[toast]('./src/assets/images/toast.gif')
+![toast]('./src/assets/images/toast.gif')
